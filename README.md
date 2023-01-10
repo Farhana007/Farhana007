@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farhana007
 - 👀 I’m interested in Software Engineering , App development  &   Web Development
-- 🌱 I’m currently learning  DSA 
-- 💞️ I’m looking to collaborate on something where i can give my best 
+- 🌱 I’m currently working as an Flutter Developer in a Startup team.
+- 💞️ I’m looking to collaborate. 
 - 📫 How to reach me ..mail me @..farhanafarhana043@gmail.com
 
 <!---
