@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Farhana007<br>- 👀 I’m interested in Software Engineering, App development  &   Web Development<br>- 🌱 I’m currently working as a Flutter Developer in a Startup team.<br>- 💞️ I’m looking to collaborate. <br>- 
+👋 Hi, I’m @Farhana007<br>- 👀 I’m interested in Software Engineering, App development  &   Web Development<br>- 🌱 I’m currently working as a Flutter Developer .<br>- 💞️ I’m looking to collaborate. <br>- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhana-akter-b7a332291/) 
