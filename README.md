@@ -89,6 +89,4 @@
 
 ###
 
-This version now includes the **streak image** and the other desired elements with your links.
-
-Is this exactly what you were looking for to update your GitHub README?
+HAPPY CODING 🪄🪄🪄🪄HAPPY DEVELOPMENT
