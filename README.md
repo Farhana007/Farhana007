@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-    A passionate developer interested in **Web Development**, **App Development**, and **Problem Solving**. I'm currently focusing on making ideas come to life!
+    A passionate developer interested in Web Development, App Development, and Problem Solving. I'm currently focusing on making ideas come to life!
 </p>
 
 ---
@@ -61,11 +61,12 @@
 ## 🔗 Connect with Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+    <a href="https://www.linkedin.com/in/farhana-akter-b7a332291" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
+    </a>
+    <a href="https://leetcode.com/u/farhana007/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode Profile" />
+    </a>
 </div>
 
 ---
@@ -73,17 +74,21 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-      <img src="https://streak-stats.demolab.com?user=Farhana007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=Farhana007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Contribution Statistics" />
     <img width="12" />
-  <img src="https://github-profile-trophy.vercel.app?username=Farhana007&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    <img src="https://github-profile-trophy.vercel.app?username=Farhana007&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy" />
 </div>
 
 ###
 
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhana007/Farhana007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhana007/Farhana007/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhana007/Farhana007/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farhana007/Farhana007/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+
+This version now includes the **streak image** and the other desired elements with your links.
+
+Is this exactly what you were looking for to update your GitHub README?
